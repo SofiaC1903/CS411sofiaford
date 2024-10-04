@@ -1,0 +1,23 @@
+1.List one goal and one non-goal
+    -Goal: To design and conduct a user study that tests the usability and effectiveness of the "sync with a snicker" feature of "SnickerSync" to obtain insights on how users interact with the feature and what areas need improvement to heighten the user's experience.
+    -Non-goal: To finalize the visual design or branding of the interface with the new feature of GiggleGit.
+
+2.Create two non-functional requirements. Here are suggestions of things to think about:
+    +Who has access to what
+    +PMs need to be able to maintain the different snickering concepts
+    +A user study needs to have random assignments of users between control groups and variants
+
+    I.Non-function Requirement 1: Security
+
+
+    II.Non-functional Requirement 2: Scalability
+
+3.For each non-functional requirement, create two functional requirements (for a grand total of four functional requirements). 
+    
+    I.Non-function Requirement 1: Security
+        I.1.Functional Requirement 1: The study will implement role-based access control so that only the PMs have access to the users' study results and maintain the different snickering concepts, while preventing the users from doing the same.
+        I.2.Functional Requirement 2: the study will encrypt all user data to ensure that user PII is properly protected during the study, using a secure encryption algorithm.
+        
+    II.Non-functional Requirement 2: Scalability
+        II.1.Functional Requirment 1: The study will implement dynamic resource allocation to maintain different snickering concepts and handle random assignments of users between control groups and variants.
+        II.2. Functional Requirement 2: The study will implement balancin mechanisms to be able to handle multiple requests from concurrent users testing the feature on multiple servers.
