@@ -1,0 +1,25 @@
+1. Complete these user stories:
+    -As a vanilla git power-user that has never seen GiggleGit before, I want to be greeted by a brief interactive tutorial on my first use so as to learn how to use GiggleGit and begin merging with GiggleGit right away.
+
+    -As a team lead onboarding an experienced GiggleGit user, I want to be able to access users' activity so as to ensure that the people I'm onboarding are fulfilling their tasks appropriately.
+
+2.Create a third user story, one task for this user story, and two associated tickets.
+
+    +Tasks should be a single phrase. (As should themes and epics. See those provided.)
+
+    +User stories should be one to three sentences. 
+
+    +Tickets should have a title consisting of a single phrase and details that are long enough to sufficiently describe what needs to be done. You do not need to assign points to the tickets
+
+    -As an experienced GiggleGit user fulfilling the onboarding process, I want to have access to an FAQ section on the new GiggleGit features so as to quickly resolve any questions about changes to the merge management system.
+        Task: Create an FAQ section.
+        Ticket 1: Compile information for FAQ section.
+            Collect and consolidate information about new GiggleGit features that might prompt doubts from experienced GiggleGit Users, through research. 
+        Ticket 2: Format FAQ content
+            Based on the information obtained from the research, write and format a concise and clear FAQ section on the new GiggleGit features.
+
+3.This is not a user story. Why not? What is it?
+
+    +As a user I want to be able to authenticate on a new machine. 
+
+    -This is not a user story because it is missing some key aspects to be a complete user story. For instance, the typical user story format has three main components of a specific actor, an action and a benefit this action fulfills. However, this example does not give a benefit that is gained from the user being able to authenticate a new machine. Also, the subject of the sentence is extremely vague and doesn't give us insight on what type of user wants this authentication. This statement could be more seen as a user stating a functional requirement they want, than a user story.
